@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;   
+  list-style: none;
+  }
+
+.Bigdiv {	
+  width: 324px;
+  height: 400px;
+  background: #535A5A;
+  opacity: 0.7;
+  color: white; 
+  margin: 20px auto;
+  }
+ .h2{
+ 	 margin-left: 22px;
+ 	 padding-top: 20px;
+ }
+  .xiaozi{
+  	display: flex;
+  	justify-content: space-between;
+  	font-size: 12px;
+  	 margin-top:20px ;
+  	padding-left: 22px;
+  	padding-right: 28px;
+  	/*width:280px ;*/
+  	 
+  }
+
+.zhong{
+position: relative;
+}
+.input1{
+	width: 238px;
+	height: 45px;
+	 margin-left: 22px;
+	 margin-top: 5px;
+	 border: none;
+}
+.span1{
+	position: absolute;
+	color: black;
+ height: 45px;
+ line-height: 45px;
+ font-size: 15px;
+  left: 220px;
+  top: 2px;
+}
+.div_left{
+	margin-top: 5px;
+	float:right ;
+	 width:40px ;
+	 height: 45px;
+	 background: white;
+	 margin-right:22px ;
+	 border-left: 1px solid gray;
+	 text-align: center;
+	 color: black;
+	 line-height: 45px;
+}
+
+.ul1{
+	  width:280px ;
+	  position: absolute;
+	  margin-left: 22px;
+	  background: white;
+	  display: none;
+	  color: black;
+	  font-size: 15px;
+	  z-index: 2;
+}
+.ul1 li{
+	margin-top: 5px;
+	background: white;
+}
+
+.zhong{
+position: relative;
+}
+.input2{
+	width: 238px;
+	height: 45px;
+	 margin-left: 22px;
+	 margin-top: 5px;
+	 border: none;
+}
+.span1{
+	position: absolute;
+	color: black;
+ height: 45px;
+ line-height: 45px;
+ font-size: 15px;
+  left: 220px;
+  top: 2px;
+}
+.div_left2{
+	margin-top: 5px;
+	float:right ;
+	 width:40px ;
+	 height: 45px;
+	 background: white;
+	 margin-right:22px ;
+	 border-left: 1px solid gray;
+	 text-align: center;
+	 color: black;
+	 line-height: 45px;
+}
+
+
+.ul12{
+	  width:280px ;
+	  position:absolute;
+	  margin-left: 22px;
+	  background: white;
+	  display: none;
+	  color: black;
+	  font-size: 15px;
+}
+
+.pp{
+	 font-size: 14px;
+	 	 margin-top:20px ;
+  	padding-left: 22px;
+  	padding-right: 28px;
+}
+
+.sousuo{
+		width: 280px;
+		height: 42px;
+		background: #0094EF;
+		color: white;
+		border: none;
+		cursor: pointer;
+		margin-top: 18px;
+		margin-left:22px;
+}
+
+.opp{
+	font-size: 12px;
+	margin-top: 22px;
+	margin-left: 30px;
+}

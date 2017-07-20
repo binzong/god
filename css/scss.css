@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.Bigdiv {
+  width: 324px;
+  height: 400px;
+  background: #535A5A;
+  opacity: 0.7;
+  color: white; }
+
+.xiaozi {
+  width: 282px;
+  height: 20px; }
+  .xiaozi p:nth-type-of(1) {
+    float: left; }
+  .xiaozi p:nth-type-of(2) {
+    float: right; }
